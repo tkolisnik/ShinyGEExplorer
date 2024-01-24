@@ -1,6 +1,6 @@
 # ShinyGEExplorer
 
-1. This is the ShinyGEExplorer R package for Gene Expression Data analysis and exploration created by Tyler Kolisnik.
+1. This is the ShinyGEExplorer R Shiny App for Gene Expression Data analysis and exploration created by Tyler Kolisnik.
 
 2. Please load the package using RStudio by pressing the Run App button or via the command
 
