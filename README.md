@@ -20,14 +20,23 @@ Rstudio (2023.09.01 or later)
 # Note: When you open up the package in RStudio it should prompt you to install any required packages for this App that you don't already have. 
 
 library(shiny)
+
 library(shinydashboard)
+
 library(DT)
+
 library(ggplot2)
+
 library(pheatmap)
+
 library(plotly)
+
 library(dplyr)
+
 library(tidyr)
+
 library(RColorBrewer)
+
 library(tibble)
 
 7. See LICENSE.txt for Licensing and Distribution Information
