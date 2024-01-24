@@ -1,0 +1,12 @@
+name: ShinyGEExplorer
+title: ShinyGEExplorer
+username: tylerkolisnik
+account: tylerkolisnik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11020976
+bundleId: 8180267
+url: https://tylerkolisnik.shinyapps.io/ShinyGEExplorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
