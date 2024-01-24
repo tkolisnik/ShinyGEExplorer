@@ -40,4 +40,7 @@ library(RColorBrewer)
 library(tibble)
 
 7. See LICENSE.txt for Licensing and Distribution Information
-8. Thank you for using my app, please address questions, comments, feedback to tkolisnik@gmail.com or submit a pull request or issue on github. 
+8. Thank you for using my app, please address questions, comments, feedback to tkolisnik@gmail.com or submit a pull request or issue on github.
+
+
+![Screenshot 1 - App Introduction Tab](https://github.com/tkolisnik/ShinyGEExplorer/assets/8935420/3218f840-842f-45b2-b231-68d0fc208792)
